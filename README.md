@@ -242,3 +242,6 @@ This repository serves as the official landing page for Plants Vs. Zombies Hybri
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Plants Vs. Zombies Hybrid today!**
+
+---
+**Last updated:** 2026-09-10 08:33:39 UTC
